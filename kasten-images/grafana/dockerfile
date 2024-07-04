@@ -1,0 +1,1 @@
+FROM gcr.io/kasten-images/grafana:7.0.3
