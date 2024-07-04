@@ -1,2 +1,1 @@
-From k8s.gcr.io/ingress-nginx/controller:v1.1.1
 From gcr.io/kasten-images/k10offline:7.0.3
