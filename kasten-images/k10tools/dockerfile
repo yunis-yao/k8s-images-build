@@ -1,0 +1,1 @@
+FROM gcr.io/kasten-images/k10tools:7.0.3
