@@ -1,0 +1,1 @@
+FROM gcr.io/kasten-images/metric-sidecar:7.0.3
